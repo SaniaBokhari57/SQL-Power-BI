@@ -33,4 +33,9 @@ This project simulates an ecommerce database with realistic tables and data to a
 - Business problem solving with data
 
 # Power BI Overview
-- To complement the SQL analysis, Power BI was used to visually represent the insights derived from the ecommerce database. The dashboards are designed to simulate real-world business reporting used by marketing, sales, and product teams for decision-making.
+To complement the SQL analysis, Power BI was used to visually represent the insights derived from the ecommerce database. The dashboards are designed to simulate real-world business reporting used by marketing, sales, and product teams for decision-making. 
+The .pbix file contains 4 report pages:
+1. **Customer Signups Summary**
+2. **Order & Revenue Performance**
+3. **User Funnel & Cart Abondonment**
+4. **Customer Value Dashboard**
