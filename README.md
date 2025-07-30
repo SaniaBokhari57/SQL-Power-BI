@@ -24,9 +24,6 @@ This project simulates an ecommerce database with realistic tables and data to a
 - Which marketing channel has the highest average order value?
 - Who are the most valuable customers by total revenue and order count?
 
-# Power BI Dashboard Overview
-- To complement the SQL analysis, Power BI was used to visually represent the insights derived from the ecommerce database. The dashboards are designed to simulate real-world business reporting used by marketing, sales, and product teams for decision-making.
-
 # Skills Demonstrated
 - SQL table design with keys and constraints
 - Data insertion and integrity maintenance
@@ -34,3 +31,6 @@ This project simulates an ecommerce database with realistic tables and data to a
 - Date/time calculations and trend analysis
 - Funnel analysis and conversion metrics
 - Business problem solving with data
+
+# Power BI Dashboard Overview
+- To complement the SQL analysis, Power BI was used to visually represent the insights derived from the ecommerce database. The dashboards are designed to simulate real-world business reporting used by marketing, sales, and product teams for decision-making.
