@@ -11,7 +11,7 @@ This project simulates an ecommerce database with realistic tables and data to a
 - events: Customer webpage interactions with timestamps
 - carts: Cart creation records including items added
 - orders: Customer orders linked to carts with amount and timestamp
-- 
+  
 # Key Business Questions Addressed
 - How many customers signed up from each marketing channel?
 - How many times was each page type visited per day?
