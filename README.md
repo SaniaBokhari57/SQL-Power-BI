@@ -32,5 +32,5 @@ This project simulates an ecommerce database with realistic tables and data to a
 - Funnel analysis and conversion metrics
 - Business problem solving with data
 
-# Power BI Dashboard Overview
+# Power BI Overview
 - To complement the SQL analysis, Power BI was used to visually represent the insights derived from the ecommerce database. The dashboards are designed to simulate real-world business reporting used by marketing, sales, and product teams for decision-making.
